@@ -20,7 +20,7 @@
 Before installing the package, ensure your system meets these requirements:
 
 - **PHP**: 8.2 or higher
-- **Laravel**: 11.x
+- **Laravel**: 10.x, 11.x, or 12.x
 - **Redis**: Required for rate limiting
 - **Database**: MySQL, PostgreSQL, or SQLite
 

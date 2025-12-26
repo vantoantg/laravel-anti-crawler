@@ -17,7 +17,7 @@ Comprehensive anti-crawler and bot protection package for Laravel 11+ applicatio
 ## Requirements
 
 - PHP 8.2+
-- Laravel 11.x
+- Laravel 10.x, 11.x, or 12.x
 - Redis (for rate limiting)
 
 ## Installation

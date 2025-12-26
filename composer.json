@@ -2,7 +2,13 @@
     "name": "vantoantg/laravel-anti-crawler",
     "description": "Comprehensive anti-crawler and bot protection for Laravel applications",
     "type": "library",
-    "keywords": ["laravel", "anti-crawler", "bot-detection", "rate-limiting", "security"],
+    "keywords": [
+        "laravel",
+        "anti-crawler",
+        "bot-detection",
+        "rate-limiting",
+        "security"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -12,10 +18,10 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^11.0",
-        "illuminate/database": "^11.0",
-        "illuminate/http": "^11.0",
-        "illuminate/redis": "^11.0",
+        "illuminate/support": "^10.0|^11.0|^12.0",
+        "illuminate/database": "^10.0|^11.0|^12.0",
+        "illuminate/http": "^10.0|^11.0|^12.0",
+        "illuminate/redis": "^10.0|^11.0|^12.0",
         "predis/predis": "^2.0"
     },
     "require-dev": {
